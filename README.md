@@ -2,7 +2,7 @@
 Cryptocurrency is the Decentralized Digital Asset that acts as a store of value as well as a medium of exchange.
 It is built on Blockchain Technology which  uses an online ledger with strong cryptography to secure online transactions.
 
-## Team-KVS
+## Team-CRYPTON
 #### Karan
 #### Vicky
 #### Shagun
@@ -28,8 +28,8 @@ The objective of this Project is to Explore Historical Prices of some Popular Cr
 2.Then we will move towards some Deep learning models like LSTM
 3.Then we will try to include Sentiment Analysis in our model to Improve our Prediction.
 
-Another part of the first phase is  to collect data for the sentiment analysis using Twitter’s
-streaming API was used in combination with _Tweepy_. Tweepy is an open source framework written
+Another part of the first phase is  to collect data for the **sentiment analysis** using Twitter’s
+streaming API was used in combination with **Tweepy** . Tweepy is an open source framework written
 in Python, facilitates tweet collection from Twitter’s API. Tweepy allows for filtering based on
 hashtags or words, and as such was considered as an efficient way of collecting relevant data.
 
