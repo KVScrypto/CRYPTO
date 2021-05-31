@@ -1,5 +1,7 @@
 ## CRYPTO
-In our project we would be analyzing the fall and rise of the trending cryptocurrencies that work on a blockchain methodology.
+Cryptocurrency is the Decentralized Digital Asset that acts as a store of value as well as a medium of exchange.
+It is built on Blockchain Technology which  uses an online ledger with strong cryptography to secure online transactions.
+
 ## Team-KVS
 #### Karan
 #### Vicky
