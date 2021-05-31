@@ -2,7 +2,7 @@
 Cryptocurrency is the Decentralized Digital Asset that acts as a store of value as well as a medium of exchange.
 It is built on Blockchain Technology which  uses an online ledger with strong cryptography to secure online transactions.
 
-## Team-CRYPTON
+## Team-KRYPTON
 #### Karan
 #### Vicky
 #### Shagun
@@ -24,9 +24,9 @@ Recently, we have seen that this market can rise or crash tremendously by tweets
 
 The objective of this Project is to Explore Historical Prices of some Popular Cryptocurrencies and  develop a predictive  model for prices by leveraging Time Series Analysis, Deep Learning techniques and Sentiment Analysis. 
 
-1.Initially we will be   starting with Time Series with models like ARIMA , ARIMAX and SARIMAX.
-2.Then we will move towards some Deep learning models like LSTM
-3.Then we will try to include Sentiment Analysis in our model to Improve our Prediction.
+1. Initially we will be   starting with Time Series with models like ARIMA , ARIMAX and SARIMAX.
+2. Then we will move towards some Deep learning models like LSTM
+3. Then we will try to include Sentiment Analysis in our model to Improve our Prediction.
 
 Another part of the first phase is  to collect data for the **sentiment analysis** using Twitter’s
 streaming API was used in combination with **Tweepy** . Tweepy is an open source framework written
