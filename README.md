@@ -10,8 +10,29 @@ It is built on Blockchain Technology which  uses an online ledger with strong cr
 
 Articles on cryptocurrencies, such as Bitcoin and Ethereum, are rife with speculation these days, with hundreds of self-proclaimed experts advocating for the trends that they expect to emerge. What is lacking from many of these analyses is a strong data analysis foundation to backup the claims.
 
-So we would be using Time series Modelling to forecast the cyptocurrency market trend(prices) and NLP for the sentiment analysis.
+
 ***
+
+## Why we chose this dataset ? 
+
+In recent years, it has been a buzz word and has given multifold growth to it's Investors but unlike other assets it is extremely volatile which makes it the riskiest Investment. This Volatility in prices can be attributed to demand and supply  of a particular coin in the market.
+
+Recently, we have seen that this market can rise or crash tremendously by tweets from some Influential people, so it is highly dependent on people's Sentiments. Some of the most popular Cryptocurrencies are Bitcoin, Ethereum and Dogecoin. 
+
+
+### Our Objective 
+
+The objective of this Project is to Explore Historical Prices of some Popular Cryptocurrencies and  develop a predictive  model for prices by leveraging Time Series Analysis, Deep Learning techniques and Sentiment Analysis. 
+
+1.Initially we will be   starting with Time Series with models like ARIMA , ARIMAX and SARIMAX.
+2.Then we will move towards some Deep learning models like LSTM
+3.Then we will try to include Sentiment Analysis in our model to Improve our Prediction.
+
+Another part of the first phase is  to collect data for the sentiment analysis using Twitter’s
+streaming API was used in combination with _Tweepy_. Tweepy is an open source framework written
+in Python, facilitates tweet collection from Twitter’s API. Tweepy allows for filtering based on
+hashtags or words, and as such was considered as an efficient way of collecting relevant data.
+
 ## key data fields
 
 ### Price related fields
